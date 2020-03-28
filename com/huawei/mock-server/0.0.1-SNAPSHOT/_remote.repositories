@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 27 12:29:42 EET 2020
+mock-server-0.0.1-SNAPSHOT.jar>=
+mock-server-0.0.1-SNAPSHOT.pom>=

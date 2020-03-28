@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 25 22:37:25 EET 2020
+xml-apis-1.0.b2.jar>central=
+xml-apis-1.0.b2.pom>central=
+xml-apis-1.0.b2-sources.jar>central=
